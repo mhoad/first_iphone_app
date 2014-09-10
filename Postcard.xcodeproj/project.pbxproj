@@ -12,6 +12,8 @@
 		4D0033BF19BF0AEF00867AFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D0033BD19BF0AEF00867AFF /* Main.storyboard */; };
 		4D0033C119BF0AEF00867AFF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D0033C019BF0AEF00867AFF /* Images.xcassets */; };
 		4D0033CD19BF0AEF00867AFF /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0033CC19BF0AEF00867AFF /* PostcardTests.swift */; };
+		4D0033D719BF245D00867AFF /* lagos1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D0033D619BF245D00867AFF /* lagos1.jpg */; };
+		4D0033D919BF292A00867AFF /* 238px-Plane_icon.svg_.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D0033D819BF292A00867AFF /* 238px-Plane_icon.svg_.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +36,8 @@
 		4D0033C619BF0AEF00867AFF /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D0033CB19BF0AEF00867AFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4D0033CC19BF0AEF00867AFF /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		4D0033D619BF245D00867AFF /* lagos1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lagos1.jpg; sourceTree = "<group>"; };
+		4D0033D819BF292A00867AFF /* 238px-Plane_icon.svg_.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "238px-Plane_icon.svg_.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +91,8 @@
 		4D0033B719BF0AEF00867AFF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4D0033D819BF292A00867AFF /* 238px-Plane_icon.svg_.png */,
+				4D0033D619BF245D00867AFF /* lagos1.jpg */,
 				4D0033B819BF0AEF00867AFF /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -191,6 +197,8 @@
 			files = (
 				4D0033BF19BF0AEF00867AFF /* Main.storyboard in Resources */,
 				4D0033C119BF0AEF00867AFF /* Images.xcassets in Resources */,
+				4D0033D719BF245D00867AFF /* lagos1.jpg in Resources */,
+				4D0033D919BF292A00867AFF /* 238px-Plane_icon.svg_.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
